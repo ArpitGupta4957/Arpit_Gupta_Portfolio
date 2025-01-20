@@ -1,0 +1,194 @@
+AG - Personal Portfolio
+
+# sidebar
+
+alt = Arpit Gupta
+
+App developer
+
+Show Contacts
+
+Email
+arpitgupta4957@gmail.com
+
+Phone
++91 93359 46391
+
+Birthday
+Feb 20, 2005
+
+Location
+Kanpur, Uttar Pradesh, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+🌟 As a developer, problem solver, and keen learner from Kanpur, India 🌏, I thrive on tackling complex challenges and transforming them into innovative, efficient solutions. With expertise in front-end development, Android app development, and a passion for coding in Java and Python.
+
+My job is building applications that are functional 🛠️, impactful 🤝, and future-ready 🚀. I take responsibilities seriously ✅, excel at working under pressure ⏱️, and am well-versed in leadership roles while being a strong advocate for teamwork 🤝. Always eager to learn and grow 🌱, I bring creativity, dedication, and collaboration to every project, aiming to create tools and applications that truly make a difference 💡.
+
+## service
+
+What I'm doing
+
+alt = design icon
+Interface design
+Crafting cutting-edge and visually captivating designs tailored to meet professional standards.
+
+alt = Web development icon
+Web development
+Delivering robust and dynamic websites with precision and functionality at an expert level.
+
+alt = mobile app icon
+Mobile apps
+Creating seamless and user-friendly mobile applications for both iOS and Android platforms.
+
+alt = camera icon
+Photography
+Capturing stunning visuals across various genres with a professional touch.
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+# resume
+
+Resume
+
+Education
+
+VIT Bhopal University
+2022 — 2026
+B.Tech in Computer Science and Engineering
+CGPA: 8.83/10
+Skills: Java, Python, Flutter, AI & ML basics, Figma, Canva, MS Excel, MySQL, Firebase, Git, GitHub, HTML, CSS.
+
+Kendriya Vidyalaya No2 AFS Kanpur
+2021 — 2022
+Percentage: 92% (Class XII, CBSE)
+Skills: Basic programming, presentation, and teamwork skills.
+
+Kendriya Vidyalaya No2 AFS Kanpur
+2019 — 2020
+Percentage: 85% (Class X, CBSE)
+
+Experience
+
+HR Intern @IISPPR
+Dec 2024 — Present
+Contributed to managing recruitment processes, streamlining communication, and enhancing team productivity in alignment with organizational goals.
+
+App Developer Intern @DoShare.Me
+Dec 2024 — Present
+Developed and optimized app features, ensuring a seamless user experience by implementing best coding practices and conducting regular testing.
+
+DSW Office Member @VIT
+Dec 2022 — Present
+Organized and coordinated university events, facilitating communication between students and administration, and managing logistical support.
+
+NEP Saarthi @UGC
+Jan 2025 — Present
+Promoted awareness and implementation of the National Education Policy, ensuring alignment with institutional objectives and outreach programs.
+
+Partnership Team Member @AI Club VIT
+Feb 2023 — Present
+Collaborated with organizations to secure partnerships, organized workshops, and fostered networking opportunities to enhance club activities.
+
+My skills
+
+App development
+90%
+
+Problem Solver
+80%
+
+Team leadership
+100%
+
+Designing
+50%
+
+Research
+70%
+
+Project management
+85%
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
+
