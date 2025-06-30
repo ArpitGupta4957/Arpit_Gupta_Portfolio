@@ -723,7 +723,7 @@ main {
   margin-top: 10px;
   display: flex;
   font-size: 15px;
-  justify-content: right; 
+  justify-content: center; 
   align-items: center;
 }
 
